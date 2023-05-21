@@ -6,6 +6,4 @@
 
 
 ![OIP](https://github.com/mohansharma077/Loan-Acceptance/assets/104629829/76a74b56-acc5-45d7-ad0c-d2052fb7b9fb)
-
-
 ![R](https://github.com/mohansharma077/Loan-Acceptance/assets/104629829/6728d52d-51ce-4a09-bb7c-457f7fe46f3e)
